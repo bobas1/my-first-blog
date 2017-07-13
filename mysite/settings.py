@@ -25,7 +25,7 @@ SECRET_KEY = '0a9m%+ksw!v*2u108!_cblf1+e@vvyvy3#or7we2#lh3_$_e_4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bobas.pythonanywhere.com']
 
 
 # Application definition
